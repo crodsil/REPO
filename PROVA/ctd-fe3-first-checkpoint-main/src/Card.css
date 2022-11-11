@@ -1,0 +1,20 @@
+.cardGrid {
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    width: 340px;
+    border-radius: 14px;
+    border: 6px solid rgba(233, 220, 220, 0.76);
+    padding: 32px;   
+}
+
+.cardGrid p {
+    line-height: 12px;
+    font-size: 16px;
+    color: rgb(79, 56, 206);
+}
+
+.cardGrid span {
+    font-family: 'sans-serif';
+    font-size: 30px;
+}
